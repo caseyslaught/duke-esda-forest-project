@@ -1,5 +1,7 @@
 
 *.h5
+*.tif
+*.tiff
 
 *.bundle.*
 lib/
