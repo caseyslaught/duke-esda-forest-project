@@ -1,8 +1,0 @@
-https://data.ornldaac.earthdata.nasa.gov/protected/gedi/GEDI_L4A_AGB_Density_V2_1/data/GEDI04_A_2021284160027_O16033_04_T11110_02_002_02_V002.h5
-https://data.ornldaac.earthdata.nasa.gov/protected/gedi/GEDI_L4A_AGB_Density_V2_1/data/GEDI04_A_2021288142828_O16094_04_T09534_02_002_02_V002.h5
-https://data.ornldaac.earthdata.nasa.gov/protected/gedi/GEDI_L4A_AGB_Density_V2_1/data/GEDI04_A_2021296234744_O16224_01_T08777_02_002_02_V002.h5
-https://data.ornldaac.earthdata.nasa.gov/protected/gedi/GEDI_L4A_AGB_Density_V2_1/data/GEDI04_A_2022064191441_O18283_01_T10353_02_003_01_V002.h5
-https://data.ornldaac.earthdata.nasa.gov/protected/gedi/GEDI_L4A_AGB_Density_V2_1/data/GEDI04_A_2022072034133_O18397_04_T03995_02_003_01_V002.h5
-https://data.ornldaac.earthdata.nasa.gov/protected/gedi/GEDI_L4A_AGB_Density_V2_1/data/GEDI04_A_2022107023107_O18939_01_T10200_02_003_01_V002.h5
-https://data.ornldaac.earthdata.nasa.gov/protected/gedi/GEDI_L4A_AGB_Density_V2_1/data/GEDI04_A_2022110123121_O18992_04_T03842_02_003_01_V002.h5
-https://data.ornldaac.earthdata.nasa.gov/protected/gedi/GEDI_L4A_AGB_Density_V2_1/data/GEDI04_A_2022148211917_O19587_04_T08264_02_003_01_V002.h5
