@@ -4,6 +4,7 @@
 *.tiff
 
 data/
+dask-worker-space/
 
 
 *.bundle.*
