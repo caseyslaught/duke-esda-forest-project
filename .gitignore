@@ -3,6 +3,9 @@
 *.tif
 *.tiff
 
+data/
+
+
 *.bundle.*
 lib/
 node_modules/
