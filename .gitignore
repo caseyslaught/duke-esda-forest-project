@@ -3,6 +3,10 @@
 *.tif
 *.tiff
 
+data/
+dask-worker-space/
+
+
 *.bundle.*
 lib/
 node_modules/
